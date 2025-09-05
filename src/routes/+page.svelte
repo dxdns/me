@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { Avatar, Card, Link } from "@dxdns/feflow-svelte"
+	import { Avatar, Card, Link } from "@dxdns-kit/svelte"
 	import profileImage from "$lib/assets/profile.jpeg"
 
 	let { data } = $props()
